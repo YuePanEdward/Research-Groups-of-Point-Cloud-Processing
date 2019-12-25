@@ -55,6 +55,11 @@ http://www.ece.lsu.edu/xinli/
 Geometric Data Processing
 Large-scale Visual (Geometric/Image/Spatiotemporal) Data Modeling and Understanding
 Computer Graphics, Computer Vision, Image Processing and Analysis
+### 6. UCSD, Su Lab, Hao Su
+#### (1) homepage:
+https://cseweb.ucsd.edu/~haosu/
+#### (2) Masterpiece：
+PointNet, PointNet++
 ## 三、法国
 ### 1. CENTRE FOR ROBOTICS,MINES ParisTech NPM3D团队
 ####  (1) 主页
@@ -73,7 +78,13 @@ Scene Analysis and Classification
 Robotics for Agriculture
 Unmanned Aerial Vehicles (UAVs and MAVs)
 Autonomous Cars, Logistics, Wheeled Robots, …
+### 2. TUM, Institute of Photogrammetry & Remote Sensing, Uwe Stilla
+#### (1) Homepage:
+http://www.pf.bgu.tum.de/
 ## 五、中国香港
+### 1. HongKong PolyU, LSGI, Yao Wei
+#### (1) Homepage:
+https://yweirt.github.io/
 ## 六、加拿大
 ### 1. GrUVi Lab,Simon Fraser University Yasutaka Furukawa教授团队
 #### (1)团队主页
@@ -92,7 +103,13 @@ https://www.adelaide.edu.au/aiml/our-research
 https://people.eng.unimelb.edu.au/kkhoshelham/people.html
 ## 十、瑞士
 ### 1.ETH Zurich, Institute of Geodesy and Photogrammetry
-#### (1)团队主页
+#### (1) Homepage:
 https://prs.igp.ethz.ch/
+#### (2) Masterpiece：
+Semantic3D Dataset
 ## 十一、其他国家
-
+### 1.Computer Vision Lab, University of Bologna, Italy
+#### (1)homepage
+http://www.vision.deis.unibo.it/
+#### (2) Masterpiece：
+SHOT
